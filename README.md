@@ -34,8 +34,6 @@ I'm Ebunoluwa — a software engineer, product builder, and team lead.
 - 🔗 [Jobapay AI]([https://github.com/yourusername/jobapay-ai](https://github.com/EbunoluwaArimoro/jobapay-ai-service-matcher)): Location-based service-matching platform using Cohere + Google Maps.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbunoluwaArimoro&layout=compact)
-![Ebunoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbunoluwaArimoro&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername)
 
 
