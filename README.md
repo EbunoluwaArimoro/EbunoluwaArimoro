@@ -33,3 +33,9 @@ I'm Ebunoluwa — a software engineer, product builder, and team lead.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white)
 
+### 🚀 Featured Projects
+- 🔗 [Jobapay AI]([https://github.com/yourusername/jobapay-ai](https://github.com/EbunoluwaArimoro/jobapay-ai-service-matcher)): Location-based service-matching platform using Cohere + Google Maps.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername)
+
+
