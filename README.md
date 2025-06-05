@@ -26,15 +26,15 @@ I'm Ebunoluwa — a software engineer, product builder, and team lead.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?&style=flat&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23323330.svg?&style=flat&logo=python&logoColor=yellow)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white)
 
 ### 🚀 Featured Projects
 - 🔗 [Jobapay AI]([https://github.com/yourusername/jobapay-ai](https://github.com/EbunoluwaArimoro/jobapay-ai-service-matcher)): Location-based service-matching platform using Cohere + Google Maps.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbunoluwaArimoro&layout=compact)
+![Ebunoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbunoluwaArimoro&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername)
 
